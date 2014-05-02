@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/chandlervdw
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://chandlervdw.com
+  * I am chandlervdw (https://keybase.io/chandlervdw) on keybase.
+  * I have a public key with fingerprint 68F1 DDAD DE10 3488 EEC5  C439 2BBE F1AC 56E1 B53A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "68f1ddadde103488eec5c4392bbef1ac56e1b53a",
+            "host": "keybase.io",
+            "key_id": "2bbef1ac56e1b53a",
+            "uid": "a6316e0db04daabaaa5476ed92771c00",
+            "username": "chandlervdw"
+        },
+        "service": {
+            "hostname": "chandlervdw.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399052154,
+    "expire_in": 157680000,
+    "prev": "a86372fbe8fec499cf57582112e5464d9052b0ebf3c078a2689758a99ec4a47e",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yML6AnicbZF7UFRlGMZ3QSFAdHcGUZhwxjN4yVnXc7+sEyRag6ghszg4amzfOefb
+5ZCcs+6F26WECShhSEpM1mwUqUmxmK0huoywgJpIWaNDSJTkTljmwM5IGBiB5zD1
+V33/nPne5/c+z/ee91JsuC5aHxp5mjy66ZMj+oHAn16dVRgqLUN4RSxBLGXIS3Dh
+Y5dkB3Q5XZLsQSwIzdoxUQSiCDGUIFkWQoESSILDeR7aMSBQNMR4igCICclT3FqH
+asMDNzRLilpTLzZJVKv/w3sXBEATGA1RkUdJEQAeAECRDA1FDmcYTEBRDXRDlwwK
+oEoLeUAWD0JXoViEVJgQVSiUBFUoW0j/L2QWlALVwelSPIqgHFTFPI/HadF6PSVO
+DS6CvO0fGxsvyaI6vdpQCF1uSZERC6aSgkfSfDGC41AKxyjShMBip+SCNkkjKIZm
+UfVoMbBQG4mlCQa385C1Q4HkOMFOMRSLYxgOKZImRc2FRyFvJwSUYQFOs5yqA45T
+aUAyUM13w0OyglgI9ZnAoVq6JYcMPF4XRCp6ew4s0umjdRGLw7T96aKjDP9uNSgY
+dK2zJmNP+5qW7FPjlUXHVv2x4UH9vo9PrCMelRu+WFt/8/apxZG9mzren704gX4K
+x6svPKx6srWTbfyg8feKqnNTZwM+25hQnfjeyFRFqblz1Vnmh+21u1P+6utIczzb
+EHzjbkXCb2tqEqdfzknY5Yga745qi5hLnKm7goXtP3lpZue7cVX24PwFj7y2JvDg
+lSZiS0/DczO57eCt4fRjGWPNYTU3NlqL9S+mLI1ocF4Pho8EVo5++/ML+Netw20x
+u+7TBZnjzeXZxyP3LvPno8kbY3eU9pgGf9qfVB6iu+52VRvQaYQY/ShFtyFu7ryJ
+7s/75eqd0JfLr7C9/oiV6v99aGltNO0VSnwTh4+uyD9zbviz6ldTd8b4DvTF9m0u
+mDP689fXU97u8025UlW68YS07VrOPnRI8dUJH9beXm81TZbPzhn30PODY/HXu8xJ
+T209/WtT0/Z1A0joeap9wtecO9yfU2m+/OZrHZne2lve5KGav3f05+n22OgBdoku
+cKTYNur+7vT9+otS8Mxh5NbV493LLse/fccwmab396WmZWV/46ybfmbb6pTIFZUZ
+dalgd3pR2Rbromx5KHcq8cd7xV/13vg+ylQjOloys/BgwlbjuDVj0pmTPL866ebr
+hpjPlz/RDNpa4u8xZe9wzoYsNJRiXdIZF/KDzR3JePjgtUN9tkcnHwO+KJWg
+=86Uy
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chandlervdw
+
+==================================================================
