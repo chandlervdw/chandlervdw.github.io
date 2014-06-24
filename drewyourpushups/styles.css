@@ -1,0 +1,29 @@
+@font-face {
+	font-family: 'Cubano';
+	src: url('cubano.eot?#iefix') format('embedded-opentype'), 
+	     url('cubano.woff') format('woff'), 
+	     url('cubano.ttf')  format('truetype'),
+	     url('cubano.svg#svgFontName') format('svg');
+	}
+
+#wrapper {
+	clear: both;
+	height: 500px;
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	margin: -250px auto 0;
+}
+
+#content {
+	margin: 0 auto;
+}
+
+h1 {
+	color: #fff;
+	font-size: 200px;
+	font-family: 'Cubano';
+	text-align: center;
+	margin: 0;
+	font-weight: normal;
+}
