@@ -1,9 +1,9 @@
 @font-face {
 	font-family: 'Cubano';
-	src: url('cubano.eot?#iefix') format('embedded-opentype'), 
-	     url('cubano.woff') format('woff'), 
-	     url('cubano.ttf')  format('truetype'),
-	     url('cubano.svg#svgFontName') format('svg');
+	src: url('cubano-regular.eot?#iefix') format('embedded-opentype'), 
+	     url('cubano-regular.woff') format('woff'), 
+	     url('cubano-regular.ttf')  format('truetype'),
+	     url('cubano-regular.svg#svgFontName') format('svg');
 	}
 
 #wrapper {
@@ -26,4 +26,8 @@ h1 {
 	text-align: center;
 	margin: 0;
 	font-weight: normal;
+}
+
+html {
+	font-family: 'Fira Sans', sans-serif;	
 }
